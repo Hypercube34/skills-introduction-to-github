@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations Hypercube34! 🎉
+# 🎉 Congratulations Nathan! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
